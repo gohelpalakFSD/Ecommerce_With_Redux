@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "id": "4089",
+      "username": "jivan",
+      "email": "j@gmail.com",
+      "password": "1234",
+      "cpass": "1234"
+    },
+    {
+      "id": "7765",
+      "username": "jivan",
+      "email": "j1@gmail.com",
+      "password": "12345",
+      "cpass": "12345"
+    },
+    {
+      "id": "edf8",
+      "username": "harshil",
+      "email": "harshil@gmail.com",
+      "password": "12345",
+      "cpass": "12345"
+    }
+  ],
+  "cartData": [
+    {
+      "id": "f22d",
+      "quantity": "3",
+      "productId": "2",
+      "userId": "4099"
+    },
+    {
+      "id": "82ae",
+      "quantity": "1",
+      "productId": "3",
+      "userId": "7765"
+    },
+    {
+      "id": "7b6e",
+      "quantity": 1,
+      "productId": "6",
+      "userId": "4089"
+    },
+    {
+      "id": "ff7e",
+      "quantity": 5,
+      "productId": "11",
+      "userId": "4089"
+    },
+    {
+      "id": "bbb3",
+      "quantity": 1,
+      "productId": "4",
+      "userId": "4089"
+    }
+  ]
+}
